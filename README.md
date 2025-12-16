@@ -117,3 +117,10 @@ Focusing on proven engine technologies minimizes operational uncertainty and pro
 
 # Strategic Conclusion
 By cleaning, aggregating, and visualizing aviation accident data, this analysis provides actionable insights that directly inform fleet selection, operational planning, and risk mitigation strategies. The findings strongly support a conservative, safety-first approach that prioritizes proven engine technologies and favorable operating conditions as the organization enters the aviation sector.
+## 📊 Interactive Dashboard (Tableau)
+
+An interactive Tableau dashboard was created to explore aviation accident risk
+by weather condition, engine type, aircraft damage, and injury severity.
+
+🔗 **View the live dashboard here:**  
+https://public.tableau.com/app/profile/marian.amondi/viz/AviationRiskanalysis/Aviation?publish=yes
