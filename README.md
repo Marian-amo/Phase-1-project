@@ -72,9 +72,7 @@ Under VMC a large majority of incidents (approximately 77.3%) resulted in Substa
 Under IMC Instrument Meteorological Conditions, the highest percentage of incidents (approximately 55.9%) resulted in the aircraft being Destroyed.This suggests that while substantial damage is common in VMC incidents, the more severe outcome of aircraft destruction is significantly more probable in IMC incidents, highlighting the risks associated with poor weather conditions.
 Visual Presentation of Weather vs Aircradt damage
 ecutive Summary & Business Recommendations
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+
 This analysis examined aviation accident outcomes across weather conditions and engine types to support data-driven decision-making as the company enters the aviation industry. By aggregating injury severity, aircraft damage, and engine categories, clear safety and cost-risk patterns emerged.
 # Key Findings
 
